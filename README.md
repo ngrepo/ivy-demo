@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Clone Repo
 
-Clone this repo to your local `git clone https://github.com/kashin2453/ng-ivy.git `.
+Clone this repo to your local `git clone https://github.com/ngrepo/ivy-demo.git`.
 
 ## Install NPM modules
 
